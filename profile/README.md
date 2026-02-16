@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/bspwmctl/bspwmctl/main/assets/logo/bspwmctl_logo2.png" width="400">
+    <img src="bspwmctl_logo2.png" width="450">
 </p>
 
 <h3 align="center">
