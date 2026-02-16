@@ -5,7 +5,6 @@ This repository contains shared resources and community guidelines for the bspwm
 ## What's inside
 
 - **[Organization Profile](profile/README.md)** – Public face of bspwmctl on GitHub
-- **[Funding](FUNDING.yml)** – Support the project
 - **[License](LICENSE)** – MIT License
 
 ## About this repo
