@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-    We create tools that help you install, configure, and manage<br />
+    bspwmctl is a tool that helps you install, configure, and manage <br />
     bspwm desktop environments without the headaches.
 </p>
 
@@ -19,16 +19,18 @@
 
 **[bspwmctl](https://github.com/bspwmctl/bspwmctl)** · The main CLI tool for automated bspwm installation
 
+**[docs](https://github.com/bspwmctl/docs)** · Documentation and usage guides for bspwmctl
+
 **themes** · Community-driven theme collection *(coming soon)*
 
 **scripts** · Useful scripts and plugins *(coming soon)*
-
+    
 </div>
 
 ---
 
 <div align="center">
-
+    
 ### 🤝 Join Us
 
 Whether you're reporting bugs, suggesting features, or contributing code,<br />
@@ -36,7 +38,7 @@ we'd love to have you in the community.
 
 **[Start Here](https://github.com/bspwmctl/bspwmctl#readme)** · 
 **[Report Issues](https://github.com/bspwmctl/bspwmctl/issues)** · 
-**[Contribute](https://github.com/bspwmctl/bspwmctl/blob/main/CONTRIBUTING.md)**
+**[Contribute](https://github.com/bspwmctl/bspwmctl/blob/main/.github/CONTRIBUTING.md)**
 
 </div>
 
