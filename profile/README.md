@@ -1,51 +1,47 @@
+<p align="center">
+    <img src="https://raw.githubusercontent.com/bspwmctl/bspwmctl/main/assets/logo/bspwmctl_logo2.png" width="400">
+</p>
+
+<h3 align="center">
+    Making bspwm setup simple, fast, and enjoyable.
+</h3>
+
+<p align="center">
+    We create tools that help you install, configure, and manage<br />
+    bspwm desktop environments without the headaches.
+</p>
+
+---
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bspwmctl/bspwmctl/main/assets/logo/bspwmctl_logo2.png" width="400">
 
-  # bspwmctl
+### 🚀 Our Projects
 
-  ### Automated installer and manager for bspwm desktop environments
+**[bspwmctl](https://github.com/bspwmctl/bspwmctl)** · The main CLI tool for automated bspwm installation
 
-  Create and manage a fully configured bspwm environment using a simple CLI.
+**themes** · Community-driven theme collection *(coming soon)*
 
-  [![Latest Release](https://img.shields.io/github/v/release/bspwmctl/bspwmctl?include_prereleases&label=latest&color=blue)](https://github.com/bspwmctl/bspwmctl/releases)
-  [![License](https://img.shields.io/github/license/bspwmctl/bspwmctl?color=red)](https://github.com/bspwmctl/bspwmctl/blob/main/LICENSE)
-  [![GitHub Stars](https://img.shields.io/github/stars/bspwmctl/bspwmctl?style=flat&color=yellow)](https://github.com/bspwmctl/bspwmctl)
+**scripts** · Useful scripts and plugins *(coming soon)*
 
 </div>
 
-  ---
+---
 
-  ### 🚀 Quick Start
+<div align="center">
 
-  ```bash
-  git clone https://github.com/bspwmctl/bspwmctl.git
-  cd bspwmctl
-  chmod +x bspwmctl
-  ./bspwmctl install
-  ```
+### 🤝 Join Us
 
-  ---
+Whether you're reporting bugs, suggesting features, or contributing code,<br />
+we'd love to have you in the community.
 
-  ### 📦 Projects
-
-  | Repository | Description |
-  |------------|-------------|
-  | [**bspwmctl**](https://github.com/bspwmctl/bspwmctl) | Main installer and manager CLI tool |
-  | [**docs**](https://github.com/bspwmctl/docs) | Documentation website |
-  | *themes* | Community themes *(coming soon)* |
-  | *scripts* | Extra scripts and plugins *(coming soon)* |
-
-  ---
-
-  ### 🤝 Get Involved
-
-  - 📖 [Read the docs](https://github.com/bspwmctl/bspwmctl#readme)
-  - 🐛 [Report a bug](https://github.com/bspwmctl/bspwmctl/issues/new?labels=bug&template=bug_report.md)
-  - 💡 [Request a feature](https://github.com/bspwmctl/bspwmctl/issues/new?labels=enhancement&template=feature_request.md)
-  - 🤝 [Contribute](https://github.com/bspwmctl/bspwmctl/blob/main/CONTRIBUTING.md)
-
-  ---
-
-  <sub>Built with ❤️ by [lukatinarelli](https://github.com/lukatinarelli) and [contributors](https://github.com/bspwmctl/bspwmctl/graphs/contributors)</sub>
+**[Start Here](https://github.com/bspwmctl/bspwmctl#readme)** · 
+**[Report Issues](https://github.com/bspwmctl/bspwmctl/issues)** · 
+**[Contribute](https://github.com/bspwmctl/bspwmctl/blob/main/CONTRIBUTING.md)**
 
 </div>
+
+---
+
+<p align="center">
+    <sub>Built by <a href="https://github.com/lukatinarelli">@lukatinarelli</a> and the community</sub>
+</p>
