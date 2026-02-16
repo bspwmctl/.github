@@ -7,10 +7,6 @@ This repository contains shared resources and community guidelines for the bspwm
 - **[Organization Profile](profile/README.md)** – Public face of bspwmctl on GitHub
 - **[License](LICENSE)** – MIT License
 
-## About this repo
-
-Files stored here automatically apply across all repositories in the bspwmctl organization. This helps maintain consistency and makes it easier to manage community standards.
-
 ## Questions?
 
 Head over to the [main project](https://github.com/bspwmctl/bspwmctl) or [open an issue](https://github.com/bspwmctl/bspwmctl/issues/new/choose).
