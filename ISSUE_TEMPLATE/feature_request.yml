@@ -1,0 +1,42 @@
+name: 💡 Feature request
+description: Suggest a new feature or an improvement
+title: "[Feature]: "
+labels: ["enhancement"]
+assignees: ["lukatinarelli"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea! Please search the [existing issues](https://github.com/bspwmctl/bspwmctl/issues) first, someone may have suggested it already.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem would this solve? Why would it be useful?
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How do you think it should work?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other solutions or workarounds you have thought about.
+
+  - type: dropdown
+    id: contribute
+    attributes:
+      label: Would you like to work on it?
+      options:
+        - "Yes, I'd like to implement it"
+        - "No, just suggesting the idea"
+    validations:
+      required: true

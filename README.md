@@ -1,14 +1,16 @@
-# bspwmctl Organization Files
+# bspwmctl organization files
 
-This repository contains shared resources and community guidelines for the bspwmctl organization.
+Default community health files and the public profile of the [bspwmctl organization](https://github.com/bspwmctl). Every repository without its own version of these files uses the ones here.
 
-## What's inside
+| File | Purpose |
+|------|---------|
+| [profile/README.md](profile/README.md) | Organization profile shown on [github.com/bspwmctl](https://github.com/bspwmctl) |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute to any repository |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Contributor Covenant 2.1 |
+| [SECURITY.md](SECURITY.md) | How to report vulnerabilities privately |
+| [SUPPORT.md](SUPPORT.md) | Where to get help |
+| [ISSUE_TEMPLATE/](ISSUE_TEMPLATE) | Issue forms: bug report, feature request, documentation |
+| [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md) | Pull request template |
+| [FUNDING.yml](FUNDING.yml) | Sponsor button |
 
-- **[Organization Profile](profile/README.md)** – Public face of bspwmctl on GitHub
-- **[Code of Conduct](CODE_OF_CONDUCT.md)** – Applies to every repository in the organization
-- **[Funding](FUNDING.yml)** – Sponsor button shown on every repository
-- **[License](LICENSE)** – MIT License
-
----
-
-**Learn more:** [Creating default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+See [Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for how GitHub uses them.
