@@ -5,6 +5,8 @@ This repository contains shared resources and community guidelines for the bspwm
 ## What's inside
 
 - **[Organization Profile](profile/README.md)** – Public face of bspwmctl on GitHub
+- **[Code of Conduct](CODE_OF_CONDUCT.md)** – Applies to every repository in the organization
+- **[Funding](FUNDING.yml)** – Sponsor button shown on every repository
 - **[License](LICENSE)** – MIT License
 
 ---

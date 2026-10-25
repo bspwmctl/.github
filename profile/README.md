@@ -11,6 +11,30 @@
     bspwm desktop environments without the headaches.
 </p>
 
+<p align="center">
+    <a href="https://github.com/bspwmctl/bspwmctl/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/bspwmctl/bspwmctl?include_prereleases&label=latest"></a>
+    <a href="https://github.com/bspwmctl/bspwmctl/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/bspwmctl/bspwmctl"></a>
+    <a href="https://bspwmctl.github.io/docs/"><img alt="Docs" src="https://img.shields.io/badge/docs-bspwmctl.github.io-blue"></a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Quick Start
+
+Download the package for your distro from the [latest release](https://github.com/bspwmctl/bspwmctl/releases), install it, then run:
+
+</div>
+
+```bash
+bspwmctl install --standard
+```
+
+<p align="center">
+    Debian · Ubuntu · Arch · Fedora · and their derivatives
+</p>
+
 ---
 
 <div align="center">
@@ -19,11 +43,11 @@
 
 **[bspwmctl](https://github.com/bspwmctl/bspwmctl)** · The main CLI tool for automated bspwm installation
 
-**[docs](https://github.com/bspwmctl/docs)** · Documentation and usage guides for bspwmctl
+**[docs](https://bspwmctl.github.io/docs/)** · Documentation and usage guides for bspwmctl
 
-**themes** · Community-driven theme collection *(coming soon)*
+**[themes](https://github.com/bspwmctl/themes)** · Community-driven theme collection *(coming soon)*
 
-**scripts** · Useful scripts and plugins *(coming soon)*
+**[scripts](https://github.com/bspwmctl/scripts)** · Useful scripts for bspwm *(coming soon)*
     
 </div>
 
