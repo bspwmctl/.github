@@ -1,0 +1,22 @@
+name: 📖 Documentation
+description: Something in the docs is wrong, missing or unclear
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Link to the page, if it's about an existing one.
+      placeholder: https://bspwmctl.github.io/docs/#/usage/keybindings
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong or missing?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change
+      description: How should it read instead? (optional)
