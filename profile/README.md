@@ -27,9 +27,7 @@ Download the package for your distro from the [latest release](https://github.co
 
 </div>
 
-```bash
-bspwmctl install --standard
-```
+<p align="center"><code>bspwmctl install --standard</code></p>
 
 <p align="center">
     Debian · Ubuntu · Arch · Fedora · and their derivatives
